@@ -5,7 +5,7 @@ Points: 30
 Category: Forensics  
 
 ## Description
-Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another. What's the final one? Image: this
+Matryoshka dolls are a set of wooden dolls of decreasing size placed one inside another. What's the final one? Image: [this](./dolls.jpg)
 
 ## Hints
 
