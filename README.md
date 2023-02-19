@@ -1,3 +1,2 @@
 # CTF-Write-Up
-
-ayam goreng
+image.png
