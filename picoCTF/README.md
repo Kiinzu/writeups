@@ -9,8 +9,7 @@ Additionally, if you're interested in learning more about offensive and defensiv
 All of the content is published on GitHub and Medium, so you can easily access it and learn at your own pace.
 
 
-## Forensic
-| Challenge  | Points | 
-| ------------- | ------------- |
-| [Informations](./picoCTF/Forensic/Information/README.md)  | 10  |
-| [Matryoshka Doll](./Forensic/Matryoshka%20doll/README.md) | 30  |
+| Challenge  | Points | Category | 
+| ------------- | ------------- | ------------- |
+| [Informations](./picoCTF/Forensic/Information/README.md)  | 10  | Forensic |
+| [Matryoshka Doll](./Forensic/Matryoshka%20doll/README.md) | 30  | Forensic |
