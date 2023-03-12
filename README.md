@@ -11,10 +11,19 @@ With that being said, the three comon type of CTF is **Jeopardy**, **Attack-Defe
 
 ## Categories
 
+Based on my experience, there are 5 main categories in CTF Competitions, which mean in any CTF these category would likely appear as the challenge, and those are:  
+
 | **Cateogry** | **Explanation** | 
 | :---:  | :---:  |
 | **Cryptography**| mainly deal with `encoding`, `encryption`, `hashing`, `ciphers`, and many algorithms.  |
 | **Forensic** | Usually based on real-world scenarios and can include `file format analysis`, `steganography`, `memory dump analysis`, or `network packet capture analysis`. Sometimes it also `includes Malware Analysis` or post-attack scenarios. |
-| **Binary Exploitation** | aa |
-| **Reverse Engineering** | aa |
-| **Web Exploitation** | aa |
+| **Binary Exploitation** | Exploit bugs or vulnerabilities to cause unintended or unexpected behavior in `stack`, `heap`, `kernel` or even `web` |
+| **Reverse Engineering** | Just like its name, you'll work around a compiled program and try to reverse it, the compiled program can be anything from a `c`, `java`, `go-lang` and many more. |
+| **Web Exploitation** | Exploit vulnerabilities in web-based applications to gain access to sensitive data or control over the app, usually involves `SQL Injection`, `Cross-site Scripting`, `IDOR`, `Local File Inclusion`, etc. |
+
+However there are also some categories that not every CTF offers, due to their rare appearance, you might be surprised if you happen to come across one of these categories,
+
+| **Cateogry** | **Explanation** | 
+| :---:  | :---:  |
+| **Blockchain** | Working around smart contract challenges sounds fun doesn't it, it can even combine some categories like, Reverse Engineering, Forensic and sometimes Binary Exploitation. The Challenges can be anything from `Contract analysis`, `log analysis`, `exploiting and reversing smart contracts`, or just simply `searching addresses`. |
+| **DFIR** | **DFIR** stands for Digital Forensics and Incident Response, as you already guessed, this category offers you a similar challenge you get from Forensics, the difference I noticed is DFIR CTF Challenge usually works around SIEMS (Security information and event management). |
