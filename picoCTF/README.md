@@ -12,6 +12,6 @@ All of the content is published on GitHub and Medium, so you can easily access i
 
 
 | Challenge  | Points | Category | 
-| ------------- | ------------- | ------------- |
+| --- | --- | --- |
 | [Informations](./picoCTF/Forensic/Information/README.md)  | 10  | Forensic |
 | [Matryoshka Doll](./Forensic/Matryoshka%20doll/README.md) | 30  | Forensic |
