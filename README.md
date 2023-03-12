@@ -11,3 +11,10 @@ With that being said, the three comon type of CTF is **Jeopardy**, **Attack-Defe
 
 ## Categories
 
+| **Cateogry** | **Explanation** | 
+| :---:  | :---:  |
+| **Cryptography**| mainly deal with `encoding`, `encryption`, `hashing`, `ciphers`, and many algorithms.  |
+| **Forensic** | Usually based on real-world scenarios and can include `file format analysis`, `steganography`, `memory dump analysis`, or `network packet capture analysis`. Sometimes it also `includes Malware Analysis` or post-attack scenarios. |
+| **Binary Exploitation** | aa |
+| **Reverse Engineering** | aa |
+| **Web Exploitation** | aa |
