@@ -9,6 +9,8 @@ Additionally, if you're interested in learning more about offensive and defensiv
 All of the content is published on GitHub and Medium, so you can easily access it and learn at your own pace.
 
 
+
+
 | Challenge  | Points | Category | 
 | ------------- | ------------- | ------------- |
 | [Informations](./picoCTF/Forensic/Information/README.md)  | 10  | Forensic |
