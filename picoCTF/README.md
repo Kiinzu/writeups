@@ -17,7 +17,7 @@ All of the content is published on GitHub and Medium, so you can easily access i
 | [Matryoshka Doll](./Forensic/Matryoshka%20doll/README.md) | 30  | Forensic |
 | [Binary Exploitation 0](./Binary%20Exploitation/Binary%20Exploitation%200/README.md) | 100 | Binary Exploitation |
 | [Binary Exploitation 1](./Binary%20Exploitation/Binary%20Exploitation%201/README.md) | 200 | Binary Exploitation |
-| [Binary Exploitation 2](./Binary%20Exploitation/Binary%20Exploitation%202/README.md) | | Binary Exploitation |
+| [Binary Exploitation 2](./Binary%20Exploitation/Binary%20Exploitation%202/README.md) | 300 | Binary Exploitation |
 | [CVE-XXXX-XXXXXX](./Binary%20Exploitation/CVE-XXXX-XXXX/README.md) | 300 | Binary Exploitation |
 | [ropfu](./Binary%20Exploitation/ropfu/README.md) | 300 | Binary Exploitation |
 | [x-sixty-what](./Binary%20Exploitation/x-sixty-what/README.md) | 200 | Binary Exploitation |
