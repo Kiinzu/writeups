@@ -7,7 +7,7 @@ CTF competitions are a great way to improve your cybersecurity skills and learn 
 
 If you are interested in participating in CTFs, there are many resources available online to help you get started. Some popular CTF websites include CTFtime, picoCTF, and Hack The Box. You can also find many tutorials and write-ups from past CTF competitions that can help you learn new skills and strategies.
 
-With that being said, the three comon type of CTF is **Jeopardy**, **Attack-Defense** and **Mixed**.
+With that being said, the three comon types of CTF is **Jeopardy**, **Attack-Defense** and **Mixed**.
 
 ## Categories
 
