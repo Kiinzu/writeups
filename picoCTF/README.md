@@ -8,19 +8,9 @@ Additionally, if you're interested in learning more about offensive and defensiv
 
 All of the content is published on GitHub and Medium, so you can easily access it and learn at your own pace.
 
-
-
-
+## **General Skills**
 | Challenge  | Points | Category | 
 | :---:  | :---: | :---:  |
-| [Informations](./picoCTF/Forensic/Information/README.md)  | 10  | Forensic |
-| [Matryoshka Doll](./Forensic/Matryoshka%20doll/README.md) | 30  | Forensic |
-| [Binary Exploitation 0](./Binary%20Exploitation/Binary%20Exploitation%200/README.md) | 100 | Binary Exploitation |
-| [Binary Exploitation 1](./Binary%20Exploitation/Binary%20Exploitation%201/README.md) | 200 | Binary Exploitation |
-| [Binary Exploitation 2](./Binary%20Exploitation/Binary%20Exploitation%202/README.md) | 300 | Binary Exploitation |
-| [CVE-XXXX-XXXXXX](./Binary%20Exploitation/CVE-XXXX-XXXX/README.md) | 300 | Binary Exploitation |
-| [ropfu](./Binary%20Exploitation/ropfu/README.md) | 300 | Binary Exploitation |
-| [x-sixty-what](./Binary%20Exploitation/x-sixty-what/README.md) | 200 | Binary Exploitation |
 | [Obedient Cat]() | 5 | General Skills | 
 | [Python Wrangling]() | 10 | General Skills |
 | [Wave a flag]() | 10 | General Skills |
@@ -62,3 +52,20 @@ All of the content is published on GitHub and Medium, so you can easily access i
 | [Special]() | 300 | General Skills |
 | [1_wanna_b3_a_r0ck5star]() | 350 | General Skills |
 | [Specialer]() | 400 | General Skills |
+
+## **Forensic**
+| Challenge  | Points | Category | 
+| :---:  | :---: | :---:  |
+| [Informations](./picoCTF/Forensic/Information/README.md)  | 10  | Forensic |
+| [Matryoshka Doll](./Forensic/Matryoshka%20doll/README.md) | 30  | Forensic |
+
+## **Binary Exploitation**
+| Challenge  | Points | Category | 
+| :---:  | :---: | :---:  |
+| [Binary Exploitation 0](./Binary%20Exploitation/Binary%20Exploitation%200/README.md) | 100 | Binary Exploitation |
+| [Binary Exploitation 1](./Binary%20Exploitation/Binary%20Exploitation%201/README.md) | 200 | Binary Exploitation |
+| [Binary Exploitation 2](./Binary%20Exploitation/Binary%20Exploitation%202/README.md) | 300 | Binary Exploitation |
+| [CVE-XXXX-XXXXXX](./Binary%20Exploitation/CVE-XXXX-XXXX/README.md) | 300 | Binary Exploitation |
+| [ropfu](./Binary%20Exploitation/ropfu/README.md) | 300 | Binary Exploitation |
+| [x-sixty-what](./Binary%20Exploitation/x-sixty-what/README.md) | 200 | Binary Exploitation |
+
