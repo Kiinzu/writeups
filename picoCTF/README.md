@@ -9,9 +9,6 @@ Additionally, if you're interested in learning more about offensive and defensiv
 All of the content is published on GitHub and Medium, so you can easily access it and learn at your own pace.
 
 ## **General Skills**
-<details>
-<summary>List</summary>
-
 | Challenge  | Points | Category | Status |
 | :---:  | :---: | :---:  | :---: | 
 | [Obedient Cat]() | 5 | General Skills | :x: |
@@ -55,7 +52,7 @@ All of the content is published on GitHub and Medium, so you can easily access i
 | [Special]() | 300 | General Skills | :x: |
 | [1_wanna_b3_a_r0ck5star]() | 350 | General Skills | :x: |
 | [Specialer]() | 400 | General Skills | :x: |
-</details>
+
 
 ## **Forensic**
 | Challenge  | Points | Category | Status |
