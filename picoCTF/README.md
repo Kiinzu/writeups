@@ -81,17 +81,17 @@ All of the content is published on GitHub and Medium, so you can easily access i
 | [buffer overflow 1]() | 200 | Binary Exploitation | :x: |
 | [RPS]() | 200 | Binary Exploitation | :x: |
 | [x-sixty-what](./Binary%20Exploitation/x-sixty-what/x60w.md) | 200 | Binary Exploitation | :x: |
-| [babygame02] | 200 | Binary Exploitation | :x: |
+| [babygame02]() | 200 | Binary Exploitation | :x: |
 | [hijacking]() | 200 | Binary Exploitation | :x: |
 | [tic-tac]() | 200 | Binary Exploitation | :x: |
 | [VNE]() | 200 | Binary Exploitation | :x: |
 | [Guessing Game 1]() | 250 | Binary Exploitation | :x: |
 | [Stonk Market]() | 250 | Binary Exploitation | :x: |
 | [fermat-strings]() | 250 | Binary Exploitation | :x: |
-| [messy-malloc]() | 300 | Binary Exploitation | :x: |
+| [messy-malloc]() | 300 | Binary Exploitation | :warning: |
 | [Guessing Game 2]() | 300 | Binary Exploitation | :x: |
 | [buffer overflow 2]() | 300 | Binary Exploitation | :x: |
-| [buffer overflow 3]() | 300 | Binary Exploitation | :x: |
+| [buffer overflow 3]() | 300 | Binary Exploitation | :warning: |
 | [flag leak]() | 300 | Binary Exploitation | :x: |
 | [ropfu](./Binary%20Exploitation/ropfu/ropfu.md) | 300 | Binary Exploitation | :x: |
 | [wine]() | 300 | Binary Exploitation | :x: |
