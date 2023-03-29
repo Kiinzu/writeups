@@ -58,6 +58,61 @@ All of the content is published on GitHub and Medium, so you can easily access i
 | :---:  | :---: | :---:  | :---: |
 | [Informations](./picoCTF/Forensic/Information/README.md)  | 10  | Forensic | :white_check_mark: |
 | [Matryoshka Doll](./Forensic/Matryoshka%20doll/README.md) | 30  | Forensic | :white_check_mark: |
+| [tunn3l v1s10n]() | 40 | Forensics | :x: |
+| [Glory of the Garden]() | 50 | Forensics | :x: |
+| [Wireshark doo dooo do doo...]() | 50 | Forensics | :x: |
+| [MacroHard WeakEdge]() | 60 | Forensics | :x: |
+| [Trivial Flag Transfer Protocol]() | 90 | Forensics | :x: |
+| [Wireshark twoo twooo two twoo...]() | 100 | Forensics | :x: |
+| [advanced-potion-making]() | 100 | Forensics | :x: |
+| [Enhance!]() | 100 | Forensics | :x: |
+| [File types]() | 100 | Forensics | :x: |
+| [Lookey here]() | 100 | Forensics | :x: |
+| [Packets Primer]() | 100 | Forensics | :x: |
+| [Redaction gone wrong]() | 100 | Forensics | :x: |
+| [Sleuthkit Intro]() | 100 | Forensics | :x: |
+| [hideme]() | 100 | Forensics | :x: |
+| [PcapPoisoning]() | 100 | Forensics | :x: |
+| [who is it]() | 100 | Forensics | :x: |
+| [Disk, disk, sleuth!]() | 110 | Forensics | :x: |
+| [Milkslap]() | 120 | Forensics | :x: |
+| [Disk, disk, sleuth! II]() | | Forensics | :x: |
+| [So Meta]() | 150 | Forensics | :x: |
+| [shark on wire 1]() | 150 | Forensics | :x: |
+| [extensions]() | 150 | Forensics | :x: |
+| [What Lies Within]() | 150 | Forensics | :x: |
+| [Pitter, Patter, Platters]() | 200 | Forensics | :x: |
+| [scrambled-bytes]() | 200 | Forensics | :x: |
+| [WPA-ing Out]() | 200 | Forensics | :x: |
+| [Sleuthkit Apprentice]() | 200 | Forensics | :x: |
+| [FindAndOpen]() | 200 | Forensics | :x: |
+| [MSB]() | 200 | Forensics | :x: |
+| [m00nwalk]() | 250 | Forensics | :x: |
+| [WhitePages]() | 250 | Forensics | :x: |
+| [c0rrupt]() | 250 | Forensics | :x: |
+| [like1000]() | 250 | Forensics | :x: |
+| [Surfing the Waves]() | 250 | Forensics | :x: |
+| [m00nwalk2]() | 300 | Forensics | :x: |
+| [Investigative Reversing 0]() | 300 | Forensics | :x: |
+| [shark on wire 2]() | 300 | Forensics | :x: |
+| [Very very very Hidden]() | 300 | Forensics | :x: |
+| [Eavesdrop]() | 300 | Forensics | :x: |
+| [Operation Oni]() | 300 | Forensics | :x: |
+| [St3g0]() | 300 | Forensics | :x: |
+| [Invisible WORDs]() | 300 | Forensics | :x: |
+| [Investigative Reversing 1]() | 350 | Forensics | :x: |
+| [Investigative Reversing 2]() | 350 | Forensics | :x: |
+| [WebNet0]() | 350 | Forensics | :x: |
+| [Investigating Reversing 3]() | 400 | Forensics | :x: |
+| [Investigating Reversing 4]() | 400 | Forensics | :x: |
+| [Operation Orchild]() | 400 | Forensics | :x: |
+| [SideChannel]() | 400 | Forensics | :x: |
+| [Torrent Analyze]() | 400 | Forensics | :x: |
+| [WebNet1]() | 450 | Forensics | :x: |
+| [investigation_encoded_1]() | 450 | Forensics | :x: |
+| [investiagtion_encoded_2]() | 500 | Forensics | :x: |
+| [B1g_Mac]() | 500 | Forensics | :x: |
+| [UnforgottenBits]() | 500 | Forensics | :x: |
 
 ## **Cryptography**
 | Challenge  | Points | Category | Status |
