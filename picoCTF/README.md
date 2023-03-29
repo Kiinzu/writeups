@@ -11,7 +11,7 @@ All of the content is published on GitHub and Medium, so you can easily access i
 ## **General Skills**
 | Challenge  | Points | Category | Status |
 | :---:  | :---: | :---:  | :---: | 
-| [Obedient Cat]() | 5 | General Skills |  |
+| [Obedient Cat]() | 5 | General Skills | :x: |
 | [Python Wrangling]() | 10 | General Skills |  |
 | [Wave a flag]() | 10 | General Skills |  |
 | [Nice netcat...]() | 15 | General Skills | |
