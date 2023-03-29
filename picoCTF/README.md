@@ -71,16 +71,16 @@ All of the content is published on GitHub and Medium, so you can easily access i
 | [Here's a LIBC]() | 90 | Binary Exploitation | :x: |
 | [Unsubscriptions Are Free]() | 100 | Binary Exploitation | :x: |
 | [basic-file-exploit]() | 100 | Binary Exploitation | :x: |
-| [buffer overflow 0](./Binary%20Exploitation/Binary%20Exploitation%200/README.md) | 100 | Binary Exploitation | :x: |
-| [CVE-XXXX-XXXX](./Binary%20Exploitation/CVE-XXXX-XXXX/README.md) | 300 | Binary Exploitation | :white_check_mark: |
+| [buffer overflow 0](./Binary%20Exploitation/bof0/bof0.md) | 100 | Binary Exploitation | :x: |
+| [CVE-XXXX-XXXX](./Binary%20Exploitation/CVE-XXXX-XXXX/cve.md) | 300 | Binary Exploitation | :white_check_mark: |
 | [babygame01]() | 100 | Binary Exploitation | :x: |
 | [two-sum]() | 100 | Binary Exploitation | :x: |
 | [clutter-overflow]() | 150 | Binary Exploitation | :x: |
 | [filtered-shellcode]() | 160 | Binary Exploitation | :x: |
 | [Kit Engine]() | 200 | Binary Exploitation | :x: |
-| [buffer overflow 1](./Binary%20Exploitation/Binary%20Exploitation%201/README.md) | 200 | Binary Exploitation | :x: |
+| [buffer overflow 1]() | 200 | Binary Exploitation | :x: |
 | [RPS]() | 200 | Binary Exploitation | :x: |
-| [x-sixty-what](./Binary%20Exploitation/x-sixty-what/README.md) | 200 | Binary Exploitation | :x: |
+| [x-sixty-what](./Binary%20Exploitation/x-sixty-what/x60w.md) | 200 | Binary Exploitation | :x: |
 | [babygame02] | 200 | Binary Exploitation | :x: |
 | [hijacking]() | 200 | Binary Exploitation | :x: |
 | [tic-tac]() | 200 | Binary Exploitation | :x: |
@@ -93,7 +93,7 @@ All of the content is published on GitHub and Medium, so you can easily access i
 | [buffer overflow 2]() | 300 | Binary Exploitation | :x: |
 | [buffer overflow 3]() | 300 | Binary Exploitation | :x: |
 | [flag leak]() | 300 | Binary Exploitation | :x: |
-| [ropfu](./Binary%20Exploitation/ropfu/README.md) | 300 | Binary Exploitation | :x: |
+| [ropfu](./Binary%20Exploitation/ropfu/ropfu.md) | 300 | Binary Exploitation | :x: |
 | [wine]() | 300 | Binary Exploitation | :x: |
 | [Horsetrack]() | 300 | Binary Exploitation | :x: |
 | [seed-sPRiNG]() | 350 | Binary Exploitation | :x: |
