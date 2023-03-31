@@ -11,10 +11,10 @@ All of the content is published on GitHub and Medium, so you can easily access i
 ## **General Skills**
 | Challenge  | Points | Category | Status |
 | :---:  | :---: | :---:  | :---: | 
-| [Obedient Cat]() | 5 | General Skills | :x: |
-| [Python Wrangling]() | 10 | General Skills | :x: |
-| [Wave a flag]() | 10 | General Skills | :x: |
-| [Nice netcat...]() | 15 | General Skills | :x: |
+| [Obedient Cat]() | 5 | General Skills | :white_check_mark: |
+| [Python Wrangling]() | 10 | General Skills | :white_check_mark: |
+| [Wave a flag]() | 10 | General Skills | :white_check_mark: |
+| [Nice netcat...]() | 15 | General Skills | :white_check_mark: |
 | [Static ain't always noise]() | 20 | General Skills | :x: |
 | [Tab, Tab, Attack]() | 20 | General Skills | :x: |
 | [Magikarp Ground Mission]() | 30 | General Skills | :x: |
