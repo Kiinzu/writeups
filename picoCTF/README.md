@@ -57,8 +57,8 @@ All of the content is published on GitHub and Medium, so you can easily access i
 ## **Forensic**
 | Challenge  | Points | Category | Status |
 | :---:  | :---: | :---:  | :---: |
-| [Informations](./picoCTF/Forensic/Information/README.md)  | 10  | Forensic | :white_check_mark: |
-| [Matryoshka Doll](./Forensic/Matryoshka%20doll/README.md) | 30  | Forensic | :white_check_mark: |
+| [Informations](./picoCTF/Forensic/Information/)  | 10  | Forensic | :white_check_mark: |
+| [Matryoshka Doll](./Forensic/Matryoshka%20doll/) | 30  | Forensic | :white_check_mark: |
 | [tunn3l v1s10n]() | 40 | Forensics | :x: |
 | [Glory of the Garden]() | 50 | Forensics | :x: |
 | [Wireshark doo dooo do doo...]() | 50 | Forensics | :x: |
