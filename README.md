@@ -1,4 +1,4 @@
-# CTF-Write-Up
+# Write-Up(s)
 
 ## What is a CTF?
 CTF stands for "Capture The Flag". It is a type of cybersecurity competition where participants must solve various challenges related to various topics such as cryptography, reverse engineering, web exploitation, and more. The goal is to find flags, which are usually pieces of data hidden within the challenge. These flags can be used to score points and win the competition.
