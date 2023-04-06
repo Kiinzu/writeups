@@ -16,7 +16,7 @@ This file has a flag in plain sight (aka "in-the-clear").
 
 ## Solution
 
-1. `cat flag`
+We can just simply use `cat flag` to reveal the flag.
 <p align=center>
     <img src="./obecat.png" width=50% >
 </p>
