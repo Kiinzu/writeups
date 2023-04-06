@@ -11,7 +11,7 @@ All of the content is published on GitHub and Medium, so you can easily access i
 ## **General Skills**
 | Challenge  | Points | Category | Status |
 | :---:  | :---: | :---:  | :---: | 
-| [Obedient Cat]() | 5 | General Skills | :white_check_mark: |
+| [Obedient Cat](./General%20Skill/Obedient%20Cat/README.md) | 5 | General Skills | :white_check_mark: |
 | [Python Wrangling]() | 10 | General Skills | :white_check_mark: |
 | [Wave a flag]() | 10 | General Skills | :white_check_mark: |
 | [Nice netcat...]() | 15 | General Skills | :white_check_mark: |
