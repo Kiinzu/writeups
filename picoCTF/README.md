@@ -14,7 +14,7 @@ All of the content is published on GitHub and Medium, so you can easily access i
 | [Obedient Cat](./General%20Skill/Obedient%20Cat/README.md) | 5 | General Skills | :white_check_mark: |
 | [Python Wrangling]() | 10 | General Skills | :white_check_mark: |
 | [Wave a flag]() | 10 | General Skills | :white_check_mark: |
-| [Nice netcat...]() | 15 | General Skills | :white_check_mark: |
+| [Nice netcat...](./General%20Skill/Nice%20netcat/README.md) | 15 | General Skills | :white_check_mark: |
 | [Static ain't always noise]() | 20 | General Skills | :x: |
 | [Tab, Tab, Attack]() | 20 | General Skills | :x: |
 | [Magikarp Ground Mission]() | 30 | General Skills | :x: |
