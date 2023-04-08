@@ -134,7 +134,7 @@ All of the content is published on GitHub and Medium, so you can easily access i
 | [clutter-overflow]() | 150 | Binary Exploitation | :x: |
 | [filtered-shellcode]() | 160 | Binary Exploitation | :x: |
 | [Kit Engine]() | 200 | Binary Exploitation | :x: |
-| [buffer overflow 1]() | 200 | Binary Exploitation | :x: |
+| [buffer overflow 1](./Binary%20Exploitation/bof1/) | 200 | Binary Exploitation | :x: |
 | [RPS]() | 200 | Binary Exploitation | :x: |
 | [x-sixty-what](./Binary%20Exploitation/x-sixty-what/) | 200 | Binary Exploitation | :x: |
 | [babygame02]() | 200 | Binary Exploitation | :x: |
