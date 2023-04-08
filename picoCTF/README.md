@@ -10,8 +10,8 @@ All of the content is published on GitHub and Medium, so you can easily access i
 
 The Emoji below will tell you about the status for the writeup  
 :warning: - The Challenge is currently dissabled.  
-:x: - The Writeup is not done yet~
-:white_check_mark: - The Writeup is done~
+:x: - The Writeup is not done yet  
+:white_check_mark: - The Writeup is done  
 
 ## **General Skills**
 | Challenge  | Points | Category | Status |
