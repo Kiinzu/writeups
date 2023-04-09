@@ -141,7 +141,7 @@ The Emoji below will tell you about the status for the writeup
 | [Kit Engine]() | 200 | Binary Exploitation | :x: |
 | [buffer overflow 1](./Binary%20Exploitation/bof1/) | 200 | Binary Exploitation | :white_check_mark: |
 | [RPS]() | 200 | Binary Exploitation | :x: |
-| [x-sixty-what](./Binary%20Exploitation/x-sixty-what/) | 200 | Binary Exploitation | :x: |
+| [x-sixty-what](./Binary%20Exploitation/x-sixty-what/) | 200 | Binary Exploitation | :white_check_mark: |
 | [babygame02]() | 200 | Binary Exploitation | :x: |
 | [hijacking]() | 200 | Binary Exploitation | :x: |
 | [tic-tac]() | 200 | Binary Exploitation | :x: |
