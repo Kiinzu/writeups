@@ -154,7 +154,7 @@ The Emoji below will tell you about the status for the writeup
 | [buffer overflow 2]() | 300 | Binary Exploitation | :x: |
 | [buffer overflow 3]() | 300 | Binary Exploitation | :warning: |
 | [flag leak]() | 300 | Binary Exploitation | :x: |
-| [ropfu](./Binary%20Exploitation/ropfu/) | 300 | Binary Exploitation | :x: |
+| [ropfu](./Binary%20Exploitation/ropfu/) | 300 | Binary Exploitation | :white_check_mark: |
 | [wine]() | 300 | Binary Exploitation | :x: |
 | [Horsetrack]() | 300 | Binary Exploitation | :x: |
 | [seed-sPRiNG]() | 350 | Binary Exploitation | :x: |
