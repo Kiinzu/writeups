@@ -245,7 +245,7 @@ The Emoji below will tell you about the status for the writeup
 | Challenge  | Points | Category | Status |
 | :---:  | :---: | :---:  | :---: |
 | [GET aHEAD](./Web%20Exploitation/GET%20aHEAD/) | 20 | Web Exploitation | :white_check_mark: |
-| [Cookie]() | 40 | Web Exploitation | :x: |
+| [Cookie](./Web%20Exploitation/Cookies/) | 40 | Web Exploitation | :white_check_mark: |
 | [Insp3ct0r]() | 50 | Web Exploitation | :x: |
 | [Scavenger Hunt]() | 50 | Web Exploitation | :x: |
 | [Some Assembly Required 1]() | 70 | Web Exploitation | :x: |
