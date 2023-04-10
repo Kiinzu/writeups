@@ -127,7 +127,7 @@ The Emoji below will tell you about the status for the writeup
 ## **Binary Exploitation**
 | Challenge  | Points | Category | Status |
 | :---:  | :---: | :---:  | :---: |
-| [Stonks]() | 20 | Binary Exploitation | :x: |
+| [Stonks](./Binary%20Exploitation/stonks/) | 20 | Binary Exploitation | :white_check_mark: |
 | [Cache Me Outside]() | 70 | Binary Exploitation | :x: |
 | [Here's a LIBC]() | 90 | Binary Exploitation | :x: |
 | [Unsubscriptions Are Free]() | 100 | Binary Exploitation | :x: |
