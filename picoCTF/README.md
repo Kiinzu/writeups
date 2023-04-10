@@ -132,7 +132,7 @@ The Emoji below will tell you about the status for the writeup
 | [Here's a LIBC]() | 90 | Binary Exploitation | :x: |
 | [Unsubscriptions Are Free]() | 100 | Binary Exploitation | :x: |
 | [basic-file-exploit]() | 100 | Binary Exploitation | :x: |
-| [buffer overflow 0](./Binary%20Exploitation/bof0/) | 100 | Binary Exploitation | :x: |
+| [buffer overflow 0](./Binary%20Exploitation/bof0/) | 100 | Binary Exploitation | :white_check_mark: |
 | [CVE-XXXX-XXXX](./Binary%20Exploitation/CVE-XXXX-XXXX/) | 300 | Binary Exploitation | :white_check_mark: |
 | [babygame01]() | 100 | Binary Exploitation | :x: |
 | [two-sum]() | 100 | Binary Exploitation | :x: |
