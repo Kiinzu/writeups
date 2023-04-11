@@ -250,7 +250,7 @@ The Emoji below will tell you about the status for the writeup
 | [Scavenger Hunt](./Web%20Exploitation/Scavenger%20Hunt/) | 50 | Web Exploitation | :white_check_mark: |
 | [Some Assembly Required 1]() | 70 | Web Exploitation | :x: |
 | [More Cookies]() | 90 | Web Exploitation | :x: |
-| [where are the robots]() | 100 | Web Exploitation | :x: |
+| [where are the robots](./Web%20Exploitation/where%20are%20the%20robots/) | 100 | Web Exploitation | :white_check_mark: |
 | [logon]() | 100 | Web Exploitation | :x: |
 | [dont-use-client-side]() | 100 | Web Exploitation | :x: |
 | [It is my Birthday]() | 100 | Web Exploitation | :x: |
