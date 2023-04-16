@@ -26,6 +26,16 @@ However there are also some categories that not every CTF offers, due to their r
 | **Cateogry** | **Explanation** | 
 | :---:  | :---:  |
 | **Blockchain** | Working around smart contract challenges sounds fun doesn't it, it can even combine some categories like, Reverse Engineering, Forensic and sometimes Binary Exploitation. The Challenges can be anything from `Contract analysis`, `log analysis`, `exploiting and reversing smart contracts`, or just simply `searching addresses`. |
-| **DFIR** | **DFIR** stands for Digital Forensics and Incident Response, as you already guessed, this category offers you a similar challenge you get from Forensics, the difference I noticed is DFIR CTF Challenge usually works around `SIEMS (Security information and event management)`. |
+| **DFIR** | **DFIR** stands for Digital Forensics and Incident Response, as you already guessed, this category offers you a similar challenge you get from Forensics, the difference I noticed is DFIR CTF Challenge usually works around `SIEMS (Security information and event management)` log analysis. |
 | **OSINT** | Open Soure Intelligence(OSINT) is a very fine addition to the main categories in my opinion, we just need to do some research and we got the answer. If you want to try this category, you can try [GeoGuessr](https://www.geoguessr.com/) ( only GeoINT). |
 | **Hardware** | This category is also new for me, I've only encountered a challenge, where the flag is hidden in PCE-like images.|
+
+## CTFs List
+
+### Training Platform
+| Name | Links | Quick Review | 
+| :---: | :---:| :---: |
+| Picoctf | https://picoctf.org/ | Good platform that has various difficulty and category (Binary Exploitation, Reverse Engineering, Web Exploitation, Cryptography, Forensics & General Skills).
+| pwn.college dojo | https://dojo.pwn.college/ | Place to learn Binary Exploitation and Reverse Engineering|
+| pwnable.kr | | |
+| pwnable.tw | | |
