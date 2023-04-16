@@ -42,4 +42,5 @@ However there are also some categories that not every CTF offers, due to their r
 
 ### 2023
 | Name | Weight |
+| :---: | :---: |
 | JerseyCTF | |
