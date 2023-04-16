@@ -33,12 +33,12 @@ However there are also some categories that not every CTF offers, due to their r
 ## CTFs List
 
 ### Training Platform
-| Name | Links | Quick Review | 
-| :---: | :---:| :---: |
-| Picoctf | https://picoctf.org/ | Good platform that has various difficulty and category (Binary Exploitation, Reverse Engineering, Web Exploitation, Cryptography, Forensics & General Skills).
-| pwn.college dojo | https://dojo.pwn.college/ | Place to learn Binary Exploitation and Reverse Engineering|
-| pwnable.kr | | |
-| pwnable.tw | | |
+| Name | Links |
+| :---: | :---:|
+| Picoctf | https://picoctf.org/ | 
+| pwn.college dojo | https://dojo.pwn.college/ |
+| pwnable.kr | |
+| pwnable.tw | |
 
 ### 2023
 | Name | Weight |
