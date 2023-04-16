@@ -39,3 +39,7 @@ However there are also some categories that not every CTF offers, due to their r
 | pwn.college dojo | https://dojo.pwn.college/ | Place to learn Binary Exploitation and Reverse Engineering|
 | pwnable.kr | | |
 | pwnable.tw | | |
+
+### 2023
+| Name | Weight |
+| JerseyCTF | |
