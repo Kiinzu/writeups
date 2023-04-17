@@ -3,6 +3,8 @@
 
 ## Challenges
 
+I Love this CTF personally not only I got to learn something new, the ctf also has speakers so we can watch then while we're taking breaks between challenges.
+
 | **Name** | **Category** |
 | :---: | :---: |
 | [plain](./plain/) | Reverse Eingeering |
