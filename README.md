@@ -41,6 +41,6 @@ However there are also some categories that not every CTF offers, due to their r
 | pwnable.tw | |
 
 ### 2023
-| Name | Weight |
+| Name | Date |
 | :---: | :---: |
-| [JerseyCTF](./2023/JerseyCTF/) |  |
+| [JerseyCTF](./2023/JerseyCTF/) | 15 April - 16 April 2023 |
