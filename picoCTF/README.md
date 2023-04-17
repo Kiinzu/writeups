@@ -121,8 +121,9 @@ The Emoji below will tell you about the status for the writeup
 | [UnforgottenBits]() | 500 | Forensics | :x: |
 
 ## **Cryptography**
-| Challenge  | Points | Category | Status |
-| :---:  | :---: | :---:  | :---: |
+| Challenge  | Points |  Tags | Status |
+| :---:  | :---: | :---: | :---: |
+| mr Crypto | 300 | `ROT13`, `Python` | :x: |
 
 ## **Binary Exploitation**
 | Challenge  | Points | Category | Status |
