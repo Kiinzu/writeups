@@ -123,7 +123,7 @@ The Emoji below will tell you about the status for the writeup
 ## **Cryptography**
 | Challenge  | Points |  Tags | Status |
 | :---:  | :---: | :---: | :---: |
-| mr Crypto | 300 | `ROT13`, `Python` | :x: |
+| mr Crypto | 300 | `ROT13`, `Python` , `aaaaa` , `bbbbb`, `ccccc`, `ddddd`, `ffffffffff`,| :x: |
 
 ## **Binary Exploitation**
 | Challenge  | Points | Category | Status |
