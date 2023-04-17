@@ -126,9 +126,9 @@ The Emoji below will tell you about the status for the writeup
 | mr Crypto | 300 | `ROT13`, `Python` , `aaaaa` , `bbbbb`, `ccccc`, `ddddd`, `ffffffffff`,| :x: |
 
 ## **Binary Exploitation**
-| Challenge  | Points | Category | Status |
+| Challenge  | Points | Tags | Status |
 | :---:  | :---: | :---:  | :---: |
-| [Stonks](./Binary%20Exploitation/stonks/) | 20 | Binary Exploitation | :white_check_mark: |
+| [Stonks](./Binary%20Exploitation/stonks/) | 20 | `Format String` , `Address Leaking` | :white_check_mark: |
 | [Cache Me Outside]() | 70 | Binary Exploitation | :x: |
 | [Here's a LIBC]() | 90 | Binary Exploitation | :x: |
 | [Unsubscriptions Are Free]() | 100 | Binary Exploitation | :x: |
