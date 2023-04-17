@@ -128,19 +128,19 @@ The Emoji below will tell you about the status for the writeup
 ## **Binary Exploitation**
 | Challenge  | Points | Tags | Status |
 | :---:  | :---: | :---:  | :---: |
-| [Stonks](./Binary%20Exploitation/stonks/) | 20 | `Format String` , `Address Leaking` | :white_check_mark: |
-| [Cache Me Outside]() | 70 | Binary Exploitation | :x: |
-| [Here's a LIBC]() | 90 | Binary Exploitation | :x: |
-| [Unsubscriptions Are Free]() | 100 | Binary Exploitation | :x: |
-| [basic-file-exploit]() | 100 | Binary Exploitation | :x: |
-| [buffer overflow 0](./Binary%20Exploitation/bof0/) | 100 | Binary Exploitation | :white_check_mark: |
-| [CVE-XXXX-XXXX](./Binary%20Exploitation/CVE-XXXX-XXXX/) | 300 | Binary Exploitation | :white_check_mark: |
+| [Stonks](./Binary%20Exploitation/stonks/) | 20 | `Format String`  `Address Leaking` | :white_check_mark: |
+| [Cache Me Outside]() | 70 |  | :x: |
+| [Here's a LIBC]() | 90 |  | :x: |
+| [Unsubscriptions Are Free]() | 100 |  | :x: |
+| [basic-file-exploit]() | 100 |  | :x: |
+| [buffer overflow 0](./Binary%20Exploitation/bof0/) | 100 | `32-bits` , `Basic BOF` | :white_check_mark: |
+| [CVE-XXXX-XXXX](./Binary%20Exploitation/CVE-XXXX-XXXX/) | 300 | `CVE Searching` | :white_check_mark: |
 | [babygame01]() | 100 | Binary Exploitation | :x: |
 | [two-sum]() | 100 | Binary Exploitation | :x: |
 | [clutter-overflow]() | 150 | Binary Exploitation | :x: |
 | [filtered-shellcode]() | 160 | Binary Exploitation | :x: |
 | [Kit Engine]() | 200 | Binary Exploitation | :x: |
-| [buffer overflow 1](./Binary%20Exploitation/bof1/) | 200 | Binary Exploitation | :white_check_mark: |
+| [buffer overflow 1](./Binary%20Exploitation/bof1/) | 200 | `Basic BOF` ,  | :white_check_mark: |
 | [RPS]() | 200 | Binary Exploitation | :x: |
 | [x-sixty-what](./Binary%20Exploitation/x-sixty-what/) | 200 | Binary Exploitation | :white_check_mark: |
 | [babygame02]() | 200 | Binary Exploitation | :x: |
