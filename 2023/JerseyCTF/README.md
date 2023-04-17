@@ -3,8 +3,6 @@
 
 ## Challenges
 
-Here are 3 challenges that I maanged to solve at this event, my team manages to solve more than this
-
 | **Name** | **Category** |
 | :---: | :---: |
 | [plain](./plain/) | Reverse Eingeering |
