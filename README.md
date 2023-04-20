@@ -36,6 +36,7 @@ However there are also some categories that not every CTF offers, due to their r
 | Name | Links |
 | :---: | :---:|
 | Picoctf | https://picoctf.org/ | 
+| HackTheBox | https://hackthebox.eu/ |
 | pwn.college dojo | https://dojo.pwn.college/ |
 | pwnable.kr | |
 | pwnable.tw | |
