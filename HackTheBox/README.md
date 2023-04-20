@@ -5,7 +5,7 @@ HackTheBox (HTB) is a well-known cyber security training platform that provides 
 I don't want to ruin the fun for those who want to try either the challenge or machine with their own hands, so for all machine writeup both the `user` and `root` flag won't be provided - also the `challenge flag`. Eventhough I provide some script or even solver (mostly for the `pwn` category), I hope you do try to understand and still try it yourself :smile:. Happy hacking :fire:!!
 
 Oh yeah, here is some indicator to make your read easier,
-:white_check_list: means the writeup is done and ready to be read, :warning: means the writeup is in progress.
+:white_check_mark: means the writeup is done and ready to be read, :warning: means the writeup is in progress.
 
 ## Machine
 
@@ -18,5 +18,5 @@ Oh yeah, here is some indicator to make your read easier,
 | **Name** | **Difficulty** | **Category** |**Status** |
 | :---: | :---: | :---: | :---: |
 | [racecar]() | Easy | pwn | :warning: |
-| [You Know 0xDiablos](./Challenges/You%20Know%200xDiablos/) | Easy | pwn | :white_check_list: |
+| [You Know 0xDiablos](./Challenges/You%20Know%200xDiablos/) | Easy | pwn | :white_check_mark: |
 | [What does the f say]() | Medium | pwn | :warning: |
