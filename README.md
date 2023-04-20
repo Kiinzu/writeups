@@ -35,8 +35,8 @@ However there are also some categories that not every CTF offers, due to their r
 ### Training Platform
 | Name | Links |
 | :---: | :---:|
-| Picoctf | https://picoctf.org/ | 
-| HackTheBox | https://hackthebox.eu/ |
+| [PicoCTF](./picoCTF/) <img src="./picoCTF/assets/pico-logo.png" width=14px> | https://picoctf.org/ | 
+|  [HackTheBox](./HackTheBox/) <img src="./HackTheBox/htb-logo.png" width=14px>| https://hackthebox.eu/ |
 | pwn.college dojo | https://dojo.pwn.college/ |
 | pwnable.kr | |
 | pwnable.tw | |
