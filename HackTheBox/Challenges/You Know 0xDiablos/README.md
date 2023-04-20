@@ -41,7 +41,7 @@ With the informations we've gathered, we can try to build the payload now, the p
 payload = offset + address of flag + padding + param 1 + param 2
 ```
 
-**Quick Explanation** 
+**Quick Explanation**  
 Once we pop the `address of flag` the eip need to be filled with something, here is where our padding do the job filling the 4 bytes empty space at eip.
 
 Final Exploit:
