@@ -3,7 +3,7 @@
 <br>
 <br>
 
-This challenge for me personally is very challengin since it combine a format string vulnerability with a ret2libc in order to obtain the flag.
+This challenge for me personally is very challenging since it combine a format string vulnerability with a ret2libc.
 ```
     Arch:     amd64-64-little
     RELRO:    Full RELRO
