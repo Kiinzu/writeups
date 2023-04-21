@@ -17,6 +17,6 @@ Oh yeah, here is some indicator to make your read easier,
 
 | **Name** | **Difficulty** | **Category** |**Status** |
 | :---: | :---: | :---: | :---: |
-| [racecar]() | Easy | pwn | :warning: |
+| [racecar](./Challenges/Racecar/) | Easy | pwn | :warning: |
 | [You Know 0xDiablos](./Challenges/You%20Know%200xDiablos/) | Easy | pwn | :white_check_mark: |
-| [What does the f say]() | Medium | pwn | :white_check_mark: |
+| [What does the f say](./Challenges/What%20does%20the%20f%20say/) | Medium | pwn | :white_check_mark: |
