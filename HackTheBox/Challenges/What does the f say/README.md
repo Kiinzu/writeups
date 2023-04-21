@@ -91,7 +91,7 @@ system	                 0x04f4e0	0x2d949
 open	                 0x10fd50	0xee1b9
 read	                 0x110180	0xee5e9
 write	                 0x110250	0xee6b9
-str_bin_sh	             0x1b40fa	0x192563
+str_bin_sh	         0x1b40fa	0x192563
 ```
 So now where can we use put our payload? After analyzing the binary in IDA, I see that it gives us warning if we want to purchase something when our balance is under 20.00, just then we can input a string a length of 24 bytes, just before the canary. (I manually try to add n x 8 bytes everytime until 32 and it said `***stack smashing detected***`), so I use `24` as the offset. 
 
