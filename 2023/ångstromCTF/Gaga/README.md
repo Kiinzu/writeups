@@ -1,5 +1,7 @@
 # Gaga
 `64-bits Binary` `ret2win` `calling convention` `ret2libc`
+<br>
+<br>
 
 This challenge consist of 3 stages, `gaga0 - gaga1 - gaga2`, however I find it funny because I thought `gaga0` will give the first flag, `gaga1` will give the 2nd, and the final part will be given upon finishing the `gaga2`, but actually it'll give you the full flag once you finished `gaga2`, regardless I create the solve for everything :smile:
 
