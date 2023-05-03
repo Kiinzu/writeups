@@ -30,9 +30,8 @@ However there are also some categories that not every CTF offers, due to their r
 | **OSINT** | Open Soure Intelligence(OSINT) is a very fine addition to the main categories in my opinion, we just need to do some research and we got the answer. If you want to try this category, you can try [GeoGuessr](https://www.geoguessr.com/) ( only GeoINT). |
 | **Hardware** | This category is also new for me, I've only encountered a challenge, where the flag is hidden in PCE-like images.|
 
-## CTFs List
+## Training Platform
 
-### Training Platform
 | Name | Links |
 | :---: | :---:|
 | [PicoCTF](./picoCTF/) <img src="./picoCTF/assets/pico-logo.png" width=14px> | https://picoctf.org/ | 
@@ -40,6 +39,9 @@ However there are also some categories that not every CTF offers, due to their r
 | pwn.college dojo | https://dojo.pwn.college/ |
 | pwnable.kr | |
 | pwnable.tw | |
+
+
+## CTFs List
 
 ### 2023
 | Name | Date |
