@@ -20,3 +20,7 @@ Oh yeah, here is some indicator to make your read easier,
 | [racecar](./Challenges/Racecar/) | Easy | pwn | :warning: |
 | [You Know 0xDiablos](./Challenges/You%20Know%200xDiablos/) | Easy | pwn | :white_check_mark: |
 | [What does the f say](./Challenges/What%20does%20the%20f%20say/) | Medium | pwn | :white_check_mark: |
+
+# Seasonal ( Like Ranked / Competitive )
+
+## Hacker Wrath - Open Beta Season
