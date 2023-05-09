@@ -1,4 +1,4 @@
-<h1>HackTheBox<a href=https://www.hackthebox.com/><img src="htb-logo.png" width=30px><a/></h1>
+<h1>HackTheBox<a href=https://www.hackthebox.com/><img src="htb-logo.png" width=30px></a></h1>
 
 HackTheBox (HTB) is a well-known cyber security training platform that provides a wide range of machines for users to practice their penetration testing skills. These machines come in various levels of difficulty, ranging from beginner-friendly to highly advanced, and are designed to simulate real-world scenarios. In addition to the machines, HTB also offers challenges that users can tackle to test their knowledge and skills in specific areas of cyber security. Overall, HTB is a valuable resource for anyone interested in improving their cyber security skills through hands-on experience.
 
@@ -11,6 +11,7 @@ Oh yeah, here is some indicator to make your read easier,
 
 | **Name** | **Difficulty** | **Status** | 
 | :---: | :---: | :---: |
+| [Precious](./Box/Precious/)| Easy | :white_check_mark:|
 | [Paper](./Box/Paper/) | Easy | :warning: | 
 
 ## Challenges
