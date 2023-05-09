@@ -1,15 +1,12 @@
-# Write-Up(s)
+# Writeup(s)
 
-## What is a CTF?
-CTF stands for "Capture The Flag". It is a type of cybersecurity competition where participants must solve various challenges related to various topics such as cryptography, reverse engineering, web exploitation, and more. The goal is to find flags, which are usually pieces of data hidden within the challenge. These flags can be used to score points and win the competition.
+## About This Repository
 
-CTF competitions are a great way to improve your cybersecurity skills and learn new techniques. They are often used as a training ground for aspiring cybersecurity professionals and are also popular among experienced practitioners. CTFs can be organized as individual events or as part of larger conferences or competitions. Many CTFs are also held online, which allows participants from around the world to compete.
+This repository is an open resource for anyone looking to improve their cybersecurity skills. It features a comprehensive collection of writeups from various platforms, including CTF competitions, popular training platforms like HackTheBox (HTB) and TryHackMe (THM), and Blue Team Training platforms like CyberDefender and Blue Team Lab Online (BTLO). 
 
-If you are interested in participating in CTFs, there are many resources available online to help you get started. Some popular CTF websites include CTFtime, picoCTF, and Hack The Box. You can also find many tutorials and write-ups from past CTF competitions that can help you learn new skills and strategies.
+The writeups provide a wealth of knowledge, from detailed walkthroughs to expert tips, making it an excellent resource for both beginners and experienced professionals. Whether you're interested in learning more about cybersecurity or staying up-to-date with the latest trends, this repository has something for everyone. Overall, this repository is a valuable tool for anyone looking to master the art of cybersecurity.
 
-With that being said, the three comon types of CTF is **Jeopardy**, **Attack-Defense** and **Mixed**.
-
-## Categories
+## CTF Categories
 
 Based on my experience, there are 5 main categories in CTF Competitions, which mean in any CTF these category would likely appear as the challenge, and those are:  
 
