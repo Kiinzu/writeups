@@ -12,6 +12,7 @@ Oh yeah, here is some indicator to make your read easier,
 | **Name** | **Difficulty** | **Status** | 
 | :---: | :---: | :---: |
 | [Precious](./Box/Precious/)| Easy | :white_check_mark:|
+| [MonitorTwo]() | Easy | :warning: |
 | [Paper](./Box/Paper/) | Easy | :warning: | 
 
 ## Challenges
