@@ -24,7 +24,7 @@ However there are also some categories that not every CTF offers, due to their r
 | :---:  | :---:  |
 | **Blockchain** | Working around smart contract challenges sounds fun doesn't it, it can even combine some categories like, Reverse Engineering, Forensic and sometimes Binary Exploitation. The Challenges can be anything from `Contract analysis`, `log analysis`, `exploiting and reversing smart contracts`, or just simply `searching addresses`. |
 | **DFIR** | **DFIR** stands for Digital Forensics and Incident Response, as you already guessed, this category offers you a similar challenge you get from Forensics, the difference I noticed is DFIR CTF Challenge usually works around `SIEMS (Security information and event management)` log analysis. |
-| **OSINT** | Open Soure Intelligence(OSINT) is a very fine addition to the main categories in my opinion, we just need to do some research and we got the answer. If you want to try this category, you can try [GeoGuessr](https://www.geoguessr.com/) ( only GeoINT). |
+| **OSINT** | Open Soure Intelligence(OSINT) is a very fine addition to the main categories in my opinion, we just need to do some research and we got the answer. |
 | **Hardware** | This category is also new for me, I've only encountered a challenge, where the flag is hidden in PCE-like images.|
 
 ## Training Platform
@@ -39,6 +39,16 @@ However there are also some categories that not every CTF offers, due to their r
 
 
 ## CTFs List
+
+### 2022
+
+| Name | Date |
+| :---: | :---: |
+| NCW | | 
+| IFEST | |
+| BeeFEST | |
+| PicoCTF Spring |
+
 
 ### 2023
 | Name | Date |
