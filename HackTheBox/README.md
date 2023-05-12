@@ -14,6 +14,8 @@ Oh yeah, here is some indicator to make your read easier,
 | [Precious](./Box/Precious/)| Easy | :white_check_mark:|
 | [MonitorTwo]() | Easy | :warning: |
 | [Paper](./Box/Paper/) | Easy | :warning: | 
+| [Soccer]() | Easy | :warning: |
+| [Note4You]() | Medium | :warning: |
 
 ## Challenges
 
