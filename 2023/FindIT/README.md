@@ -11,5 +11,5 @@ Below are challenges that I managed to solve during the CTF (although I only foc
 | :---: | :---: |
 | [Debugging Spiders](./Debugging%20Spiders/) | Binary Exploitation |
 | [Everything Machine](./Everything%20Machine/) | Binary Exploitation |
-| [FindIT](./FindIT/) | Binary Exploitation |
+| [FindIT](./FindIT/) | Web Exploitation |
 | [Know Your Worth](./Know%20Your%20Worth/) | Misc |
