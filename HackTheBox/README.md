@@ -15,6 +15,10 @@ Oh yeah, here is some indicator to make your read easier,
 | [MonitorTwo]() | Easy | :warning: |
 | [Paper](./Box/Paper/) | Easy | :warning: | 
 | [Soccer]() | Easy | :warning: |
+| [Busqueda]() | Easy | :warning: |
+| [Inject]() | Easy | :warning: |
+| [Stocker]() | Easy | :warning: |
+| [PC]() | Easy | :warning: |
 | [Note4You]() | Medium | :warning: |
 
 ## Challenges
