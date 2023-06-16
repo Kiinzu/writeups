@@ -19,6 +19,7 @@ Oh yeah, here is some indicator to make your read easier,
 | [Inject]() | Easy | :warning: |
 | [Stocker]() | Easy | :warning: |
 | [PC]() | Easy | :warning: |
+| [Squashed]() | Easy | :warning: |
 | [Note4You]() | Medium | :warning: |
 
 ## Challenges
