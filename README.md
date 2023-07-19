@@ -59,3 +59,4 @@ However there are also some categories that not every CTF offers, due to their r
 | [JerseyCTF](./2023/JerseyCTF/) | 15 April - 16 April 2023 |
 | [ångstromCTF](./2023/%C3%A5ngstromCTF/) | 21 April - 26 April 2023 |
 | [FindIT](./2023/FindIT/) | 14 May 2023 |
+| [TechnoFairCTF]() | 9 July & 15 July 2023 |
