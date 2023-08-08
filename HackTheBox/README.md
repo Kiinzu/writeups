@@ -24,11 +24,20 @@ Oh yeah, here is some indicator to make your read easier,
 
 ## Challenges
 
-| **Name** | **Difficulty** | **Category** |**Status** |
-| :---: | :---: | :---: | :---: |
-| [racecar](./Challenges/Racecar/) | Easy | pwn | :warning: |
-| [You Know 0xDiablos](./Challenges/You%20Know%200xDiablos/) | Easy | pwn | :white_check_mark: |
-| [What does the f say](./Challenges/What%20does%20the%20f%20say/) | Medium | pwn | :white_check_mark: |
+## **pwn**
+
+| **Name** | **Difficulty** | **Status** |
+| :---: | :---: | :---: | 
+| [racecar](./Challenges/[pwn]%20Racecar/) | Easy | :warning: |
+| [You Know 0xDiablos](./Challenges/[pwn]%20You%20Know%200xDiablos/) | Easy | :white_check_mark: |
+| [What does the f say](./Challenges/[pwn]%20What%20does%20the%20f%20say/) | Medium | :white_check_mark: |
+
+## **Blockchain**
+| **Name** | **Difficulty** | **Status** |
+| :---: | :---: | :---: |
+| [Survival of the Fittest](./Challenges/[Blockchain]%20Survival%20of%20the%20Fittest/) | Very Easy | :white_check_mark: |
+| [Distract and Destroy](./Challenges/[Blockchain]%20Distract%20and%20Destroy/) | Very Easy | :white_check_mark: |
+
 
 # Seasonal ( Like Ranked / Competitive )
 
