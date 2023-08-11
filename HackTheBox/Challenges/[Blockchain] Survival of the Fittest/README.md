@@ -3,7 +3,7 @@
 <br>
 <br>
 
-We were given two solidity code, `Setup.sol`and `Creature.sol`, the code is as below
+We're give a [zip](./forPlayer/Survival%20of%20the%20Fittest.zip) that contain 2 solidity file, `Setup.sol`and `Creature.sol`, the code is as below
 
 **Creature.sol**
 ```javascript
