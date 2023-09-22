@@ -63,4 +63,4 @@ However there are also some categories that not every CTF offers, due to their r
 | [HackToday](./2023/HackTodayCTF/) | 26 August 2023 |
 | [COMPFEST15](./2023/COMPFEST15/) | 2 September 2023 |
 | [Intechfest]() | 9 - 10 September 2023 |
-| [Gemastik XVI]() | 30 July & 13-15 September 2023 |
+| [Gemastik XVI](./2023/Gemastik/) | 30 July & 13-15 September 2023 |
