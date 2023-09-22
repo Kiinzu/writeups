@@ -1,4 +1,4 @@
-<h1>Paper <a href="link address"><img src="./logo.png" width=40px /><a/></h1>
+<h1>Paper <a href="link address"><img src="./logo.png" width=40px /></a></h1>
 `Tags`
 
 <br>
