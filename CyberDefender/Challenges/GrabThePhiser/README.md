@@ -1,5 +1,5 @@
 # GrabThePhisher
-`kit` `phising` `OSINT` `Threat Intel`
+`kit` `phishing` `OSINT` `Threat Intel`
 <br>
 <br>
 
