@@ -11,3 +11,4 @@ This event is not only focused on cyber security sector (ctf), but also Inovatio
 
 In this writeup, I will personally give the detail explanation about the Blockchain challenge in the Final (23 September 2023), and my teams writeup for the final.
 
+[Writeup]()
