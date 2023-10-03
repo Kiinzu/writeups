@@ -123,7 +123,7 @@ The Emoji below will tell you about the status for the writeup
 ## **Cryptography**
 | Challenge | Points | Tags | Status |
 | :---: | :---: | :---: | :---: |
-| [Mod 26]() | 10 | `ROT 13` | :white_check_mark: |
+| [Mod 26](./Cryptography/Mod26/) | 10 | `ROT 13` | :white_check_mark: |
 | [Mind your Ps and Qs]() | 20 | `RSA` | :white_check_mark |
 | [Easy Peasy]() | 40 | | :x: |
 | [The Numbers]() | 50 | | :x: |
