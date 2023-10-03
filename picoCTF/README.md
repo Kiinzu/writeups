@@ -121,9 +121,65 @@ The Emoji below will tell you about the status for the writeup
 | [UnforgottenBits]() | 500 | | :x: |
 
 ## **Cryptography**
-| Challenge  | Points |  Tags | Status |
-| :---:  | :---: | :---: | :---: |
-| mr Crypto | 300 | `ROT13`, `Python` , `aaaaa` , `bbbbb`, `ccccc`, `ddddd`, `ffffffffff`,| :x: |
+| Challenge | Points | Tags | Status |
+| :---: | :---: | :---: | :---: |
+| [Mod 26]() | 10 | `ROT 13` | :white_check_mark: |
+| [Mind your Ps and Qs]() | 20 | `RSA` | :white_check_mark |
+| [Easy Peasy]() | 40 | | :x: |
+| [The Numbers]() | 50 | | :x: |
+| [New Caesar]() | 60 | | :x: |
+| [Mini RSA]() | 70 | | :x: |
+| [Dachshund Attacks]() | 80 | | :x: |
+| [No Padding, No Problem]() | 90 | | :x: |
+| [Easy 1]() | 100 | | :x: |
+| [13]() | 100 | | :x: |
+| [caesar]() | 100 | | :x: |
+| [Pixelated]() | 100 | | :x: |
+| [spelling-quiz]() | 100 | | :x: |
+| [basic-mod1]() | 100 | | :x: |
+| [basie-mode2]() | 100 | | :x: |
+| [credstuff]() | 100 | | :x: |
+| [morse-code]() | 100 | | :x: |
+| [rail-fence]() | 100 | | :x: |
+| [substitution0]() | 100  | | :x: |
+| [substitution1]() | 100 | | :x: |
+| [substitution2]() | 100 | | :x: |
+| [transposition-trial]() | 100 | | :x: |
+| [Vigenere]() | 100 | | :x: |
+| [HideToSee]() | 100 | | :x: |
+| [ReadMyCert]() | 100 | | :x: |
+| [rotation]() | 100 | | :x: |
+| [Play Nice]() | 110 | | :x: |
+| [Double DES]() | 120 | | :x: |
+| [Compress and Attack]() | 130 | | :x: |
+| [Scrambled: RSA]() | 140 | | :x: |
+| [XtraORdinary]() | 150 | | :x: |
+| [triple-secure]() | 150 | | :x: |
+| [la cifra de]() | 200 | | :x: |
+| [Tapping]() | 200 | | :x: |
+| [Flags]() | 200 | | :x: |
+| [Mr-Worldwide]() | 200 | | :x: |
+| [rsa-pop-quiz]() | 200 | | :x: |
+| [PowerAnalysis: Warmup]() | 200 | | :x: |
+| [college-rowing-team]() | 250 | | :x: |
+| [waves over lambda]() | 300 | | :x: |
+| [miniRSA]() | 300 | | :x: |
+| [It's Not My Fault 1]() | 300 | | :x: |
+| [New Vignere]() | 300 | | :x: |
+| [Very Smooth]() | 300 | | :x: |
+| [corrupt-key-1]() | 350 | | :x: |
+| [b00tl3gRSA2]() | 400 | | :x: |
+| [AES-ABC]() | 400 | | :x: |
+| [Sequences]() | 400 | | :x: |
+| [Sum-O-Primes]() | 400 | | :x: |
+| [PowerAnalysis: Part 1]() | 400 | | :x: |
+| [SRA]() | 400 | | :x: |
+| [b00tl3gRSA3]() | 450 | | :x: |
+| [john_pollard]() | 500 | | :x: |
+| [Clouds]() | 500 | | :x: |
+| [corrupt-key-2]() | 500 | | :x: |
+| [NSA Backdoor]() | 500 | | :x: |
+| [PowerAnalysis: Part 2]() | 500 | | :x: |
 
 ## **Binary Exploitation**
 | Challenge  | Points | Tags | Status |
