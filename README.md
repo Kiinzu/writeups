@@ -31,11 +31,11 @@ However there are also some categories that not every CTF offers, due to their r
 
 | Name | Links |
 | :---: | :---:|
-| [PicoCTF](./picoCTF/) <img src="./picoCTF/assets/pico-logo.png" width=14px> | https://picoctf.org/ |
-| [HackTheBox](./HackTheBox/) <img src="./HackTheBox/htb-logo.png" width=17px>| https://hackthebox.eu/ |
-| [Cyber Defender](./CyberDefender/) <img src="./CyberDefender/cyberdefenders_logo.jpeg" width=17px>| https://cyberdefenders.org/ |
-| [BTLO](./BTLO/)  <img src="./BTLO/btlo-logo.png" width=15px> | https://blueteamlabs.online/ |
-| [ROPemporium]() | https://ropemporium.com/ |
+| [PicoCTF](./Training-Platform/picoCTF/) <img src="./picoCTF/assets/pico-logo.png" width=14px> | https://picoctf.org/ |
+| [HackTheBox](./Training-Platform/HackTheBox/) <img src="./HackTheBox/htb-logo.png" width=17px>| https://hackthebox.eu/ |
+| [Cyber Defender](./Training-Platform/CyberDefender/) <img src="./CyberDefender/cyberdefenders_logo.jpeg" width=17px>| https://cyberdefenders.org/ |
+| [BTLO](./Training-Platform/BTLO/)  <img src="./BTLO/btlo-logo.png" width=15px> | https://blueteamlabs.online/ |
+| [ROPemporium](./Training-Platform/ROP%20Emporium/) | https://ropemporium.com/ |
 | [pwn.college dojo]() | https://dojo.pwn.college/ |
 | [pwnable.kr]() | https://pwnable.kr/ |
 | [pwnable.tw]() | https://pwnable.tw/ |
