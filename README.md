@@ -31,14 +31,14 @@ However there are also some categories that not every CTF offers, due to their r
 
 | Name | Links |
 | :---: | :---:|
-| [PicoCTF](./picoCTF/) <img src="./picoCTF/assets/pico-logo.png" width=14px> | https://picoctf.org/ | 
+| [PicoCTF](./picoCTF/) <img src="./picoCTF/assets/pico-logo.png" width=14px> | https://picoctf.org/ |
 | [HackTheBox](./HackTheBox/) <img src="./HackTheBox/htb-logo.png" width=17px>| https://hackthebox.eu/ |
-| pwn.college dojo | https://dojo.pwn.college/ |
-| pwnable.kr | |
-| pwnable.tw | |
 | [Cyber Defender](./CyberDefender/) <img src="./CyberDefender/cyberdefenders_logo.jpeg" width=17px>| https://cyberdefenders.org/ |
 | [BTLO](./BTLO/)  <img src="./BTLO/btlo-logo.png" width=15px> | https://blueteamlabs.online/ |
-| | |
+| [ROPemporium]() | https://ropemporium.com/ |
+| [pwn.college dojo]() | https://dojo.pwn.college/ |
+| [pwnable.kr]() | https://pwnable.kr/ |
+| [pwnable.tw]() | https://pwnable.tw/ |
 
 
 ## CTFs List
@@ -65,4 +65,4 @@ However there are also some categories that not every CTF offers, due to their r
 | [IntechFest]() | 9 - 10 September 2023 |
 | [Gemastik XVI](./2023/Gemastik/) | 30 July & 13-15 September 2023 |
 | [BPJS Hackathon](./2023/BPJS/) | 1, 10, 23 September 2023 |
-| [Slashroot]() | |
+| [Slashroot]() | 30 September 2023 |
