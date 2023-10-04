@@ -6,12 +6,15 @@
 ## 32bit Binary (x86_64)
 Let's start by listing the function in the binary using gef with the command `info fun`.
 
-![image](https://github.com/Kiinzu/writeups/assets/115586420/bba87cce-30fe-4159-87a9-f7e8232a85dd)
+<p align=center>
+    <img src="https://github.com/Kiinzu/writeups/assets/115586420/bba87cce-30fe-4159-87a9-f7e8232a85dd" width=50%>
+</p>
 
 Next step is finding the offset first using gdb with gef, we can just simply do `pattern create` then run the binary and paste the pattern created by gef as the input. It will return to us a `segmentation fault` which mean we successfully overflow the binary, now we are going to search for the `eip` offset by doing `pattern offset $eip`
 
-![image](https://github.com/Kiinzu/writeups/assets/115586420/1af1783e-870f-4e63-98ab-98c34fccc2e3)
-
+<p align=center>
+    <img src="https://github.com/Kiinzu/writeups/assets/115586420/1af1783e-870f-4e63-98ab-98c34fccc2e3" width=80%>
+</p>
 Once we know the offset, which is 44, we are going to make the final script to jump to the win. the final script would look like this.
 
 ```python
@@ -66,7 +69,9 @@ We are not going to repeat the first step like in the 32bit writeup, because the
 ```
 Back to finding the offset, we can use the same command but the pattern we want to search is `pattern search $rsp`. It looks like we found it at 40.
 
-![image](https://github.com/Kiinzu/writeups/assets/115586420/4705e1e2-bc5b-45b2-8d32-88be2532a63b)
+<p align=center>
+    <img src="https://github.com/Kiinzu/writeups/assets/115586420/4705e1e2-bc5b-45b2-8d32-88be2532a63b" width=80%>
+</p>
 
 Before making the full payload, we need to find a `return gadget (ret)`, why? In 64 bit binary, before a `call` instruction is executed the stack need to be 16-byte aligned, else it will cause an error because the stack is not aligned. This can be avoided with 2 methods, first we can add an extra `ret` before the `call / jump`. Second we can skip the `push rbp` and jump to `mov rbp,rsp` instruction in that function, for the second method, we can use this `elf.sym['ret2win]+1` to tell the address we used is the +1 after `push rbp`. Worry not, in this write-up I provide you both the solution.
 
