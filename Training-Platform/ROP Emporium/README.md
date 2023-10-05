@@ -11,8 +11,8 @@ Since I'm using a `Ubuntu 20.04 LTS`, I'll be writting the solution from `x86_64
 | Challenges | Link | Status |
 | :---: | :---: | :---: |
 | [ret2win](./ret2win/) | https://ropemporium.com/challenge/ret2win.html | :white_check_mark: |
-| [split]() | https://ropemporium.com/challenge/split.html | :x: |
-| [callme]() | https://ropemporium.com/challenge/callme.html | :x: |
+| [split](./split/) | https://ropemporium.com/challenge/split.html | :white_check_mark: |
+| [callme](./callme/) | https://ropemporium.com/challenge/callme.html | :white_check_mark: |
 | [write4]() | https://ropemporium.com/challenge/write4.html | :x: |
 | [badchars]() | https://ropemporium.com/challenge/badchars.html | :x: |
 | [fluff]() | https://ropemporium.com/challenge/fluff.html | :x: |
