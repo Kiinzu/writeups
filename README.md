@@ -66,3 +66,4 @@ However there are also some categories that not every CTF offers, due to their r
 | [Gemastik XVI](./2023/Gemastik/) | 30 July & 13-15 September 2023 |
 | [BPJS Hackathon](./2023/BPJS/) | 1, 10, 23 September 2023 |
 | [Slashroot]() | 30 September 2023 |
+| [Hology6]() | 8 October 2023 |
