@@ -67,3 +67,4 @@ However there are also some categories that not every CTF offers, due to their r
 | [BPJS Hackathon](./2023/BPJS/) | 1, 10, 23 September 2023 |
 | [Slashroot]() | 30 September 2023 |
 | [Hology6]() | 8 October 2023 |
+| [Blackhat MEA Qual]() | 8 - 9 October 2023|
